@@ -1,0 +1,13 @@
+{
+  "name": "instagram-by-1social",
+  "version": "1.0.1",
+  "type": "module",
+  "description": "Publish and schedule Instagram posts from OpenClaw — preview against Instagram's limits, publish now or schedule, and see what actually reached your account. Powered by 1Social.",
+  "license": "MIT",
+  "homepage": "https://1social.dev/post-to/instagram",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sultanlive/1social-skills.git",
+    "directory": "plugins/instagram-by-1social"
+  }
+}

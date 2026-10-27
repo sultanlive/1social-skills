@@ -1,7 +1,7 @@
 {
   "name": "bluesky-by-1social",
   "displayName": "Bluesky by 1Social",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Publish and schedule Bluesky posts and threads from OpenClaw — preview against Bluesky's limits, publish now or schedule, and see what actually reached your account. Powered by 1Social.",
   "author": {
     "name": "Sultan Kadyrkesh",

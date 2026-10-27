@@ -1,0 +1,13 @@
+{
+  "name": "bluesky-by-1social",
+  "version": "1.0.1",
+  "type": "module",
+  "description": "Publish and schedule Bluesky posts and threads from OpenClaw — preview against Bluesky's limits, publish now or schedule, and see what actually reached your account. Powered by 1Social.",
+  "license": "MIT",
+  "homepage": "https://1social.dev/post-to/bluesky",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sultanlive/1social-skills.git",
+    "directory": "plugins/bluesky-by-1social"
+  }
+}

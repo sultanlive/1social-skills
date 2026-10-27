@@ -1,0 +1,13 @@
+{
+  "name": "threads-by-1social",
+  "version": "1.0.1",
+  "type": "module",
+  "description": "Publish and schedule Threads posts from OpenClaw — preview against Threads's limits, publish now or schedule, and see what actually reached your account. Powered by 1Social.",
+  "license": "MIT",
+  "homepage": "https://1social.dev/post-to/threads",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sultanlive/1social-skills.git",
+    "directory": "plugins/threads-by-1social"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "id": "x-twitter-by-1social",
   "name": "X (Twitter) by 1Social",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Publish and schedule tweets and threads on X (Twitter) from OpenClaw — preview against X (Twitter)'s limits, publish now or schedule, and see what actually reached your account. Powered by 1Social.",
   "configSchema": {
     "type": "object",

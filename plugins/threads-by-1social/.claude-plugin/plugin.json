@@ -1,7 +1,7 @@
 {
   "name": "threads-by-1social",
   "displayName": "Threads by 1Social",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Publish and schedule Threads posts from OpenClaw — preview against Threads's limits, publish now or schedule, and see what actually reached your account. Powered by 1Social.",
   "author": {
     "name": "Sultan Kadyrkesh",

@@ -1,0 +1,13 @@
+{
+  "name": "youtube-shorts-by-1social",
+  "version": "1.0.1",
+  "type": "module",
+  "description": "Upload and schedule YouTube Shorts from OpenClaw — preview against YouTube Shorts's limits, publish now or schedule, and see what actually reached your account. Powered by 1Social.",
+  "license": "MIT",
+  "homepage": "https://1social.dev/post-to/youtube",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sultanlive/1social-skills.git",
+    "directory": "plugins/youtube-shorts-by-1social"
+  }
+}

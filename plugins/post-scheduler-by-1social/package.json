@@ -1,0 +1,13 @@
+{
+  "name": "post-scheduler-by-1social",
+  "version": "1.0.1",
+  "type": "module",
+  "description": "Publish and schedule one post to Instagram, TikTok, LinkedIn, X, Threads, Facebook, YouTube Shorts and Bluesky from OpenClaw — preview against each network's limits, publish now or schedule, and see what actually reached each network. Powered by 1Social.",
+  "license": "MIT",
+  "homepage": "https://1social.dev/mcp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sultanlive/1social-skills.git",
+    "directory": "plugins/post-scheduler-by-1social"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "name": "linkedin-by-1social",
   "displayName": "LinkedIn by 1Social",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Publish and schedule LinkedIn posts from OpenClaw — preview against LinkedIn's limits, publish now or schedule, and see what actually reached your account. Powered by 1Social.",
   "author": {
     "name": "Sultan Kadyrkesh",

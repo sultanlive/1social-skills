@@ -1,0 +1,13 @@
+{
+  "name": "tiktok-by-1social",
+  "version": "1.0.1",
+  "type": "module",
+  "description": "Publish and schedule TikTok videos and photo posts from OpenClaw — preview against TikTok's limits, publish now or schedule, and see what actually reached your account. Powered by 1Social.",
+  "license": "MIT",
+  "homepage": "https://1social.dev/post-to/tiktok",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sultanlive/1social-skills.git",
+    "directory": "plugins/tiktok-by-1social"
+  }
+}
