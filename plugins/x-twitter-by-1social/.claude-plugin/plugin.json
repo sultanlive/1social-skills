@@ -1,0 +1,27 @@
+{
+  "name": "x-twitter-by-1social",
+  "displayName": "X (Twitter) by 1Social",
+  "version": "1.0.0",
+  "description": "Publish and schedule tweets and threads on X (Twitter) from OpenClaw — preview against X (Twitter)'s limits, publish now or schedule, and see what actually reached your account. Powered by 1Social.",
+  "author": {
+    "name": "Sultan Kadyrkesh",
+    "email": "support@1social.dev",
+    "url": "https://1social.dev"
+  },
+  "homepage": "https://1social.dev/post-to/x",
+  "repository": "https://github.com/sultanlive/1social-skills",
+  "license": "MIT",
+  "keywords": [
+    "x",
+    "twitter",
+    "tweet",
+    "twitter-scheduler",
+    "threads",
+    "social-media"
+  ],
+  "icon": "./icon.png",
+  "documentationUrl": "https://1social.dev/mcp",
+  "supportUrl": "https://1social.dev/support",
+  "privacyPolicyUrl": "https://1social.dev/legal/privacy",
+  "termsOfServiceUrl": "https://1social.dev/legal/terms"
+}

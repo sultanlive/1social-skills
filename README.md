@@ -10,7 +10,9 @@ Each skill teaches the agent one network's rules — length limits, required med
 - **OpenClaw, via [ClawHub](https://clawhub.ai):** see the table below.
 - **Hermes:** `hermes skills tap add sultanlive/1social-skills`, one skill with `hermes skills install sultanlive/1social-skills/skills/<name>`, or straight from the site: `hermes skills install well-known:https://1social.dev/.well-known/skills/<name>`.
 
-Then connect the MCP server once — each skill's *Setup* section has the command for your agent, and [1social.dev/mcp](https://1social.dev/mcp) covers every client.
+**OpenClaw plugins** (skill plus MCP connection in one install), in [`plugins/`](plugins): `openclaw plugins install clawhub:<name>`, e.g. `clawhub:instagram-by-1social`, then `openclaw mcp login 1social`.
+
+With a bare skill, connect the MCP server once — each skill's *Setup* section has the command for your agent, and [1social.dev/mcp](https://1social.dev/mcp) covers every client.
 
 | Skill | What it is | ClawHub |
 |---|---|---|

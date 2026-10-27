@@ -1,0 +1,11 @@
+{
+  "id": "linkedin-by-1social",
+  "name": "LinkedIn by 1Social",
+  "version": "1.0.0",
+  "description": "Publish and schedule LinkedIn posts from OpenClaw — preview against LinkedIn's limits, publish now or schedule, and see what actually reached your account. Powered by 1Social.",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}

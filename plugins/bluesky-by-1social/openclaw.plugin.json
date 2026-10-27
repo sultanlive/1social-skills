@@ -1,0 +1,11 @@
+{
+  "id": "bluesky-by-1social",
+  "name": "Bluesky by 1Social",
+  "version": "1.0.0",
+  "description": "Publish and schedule Bluesky posts and threads from OpenClaw — preview against Bluesky's limits, publish now or schedule, and see what actually reached your account. Powered by 1Social.",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}

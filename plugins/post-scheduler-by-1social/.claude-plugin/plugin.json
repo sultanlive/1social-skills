@@ -1,0 +1,33 @@
+{
+  "name": "post-scheduler-by-1social",
+  "displayName": "Post Scheduler by 1Social",
+  "version": "1.0.0",
+  "description": "Publish and schedule one post to Instagram, TikTok, LinkedIn, X, Threads, Facebook, YouTube Shorts and Bluesky from OpenClaw — preview against each network's limits, publish now or schedule, and see what actually reached each network. Powered by 1Social.",
+  "author": {
+    "name": "Sultan Kadyrkesh",
+    "email": "support@1social.dev",
+    "url": "https://1social.dev"
+  },
+  "homepage": "https://1social.dev/mcp",
+  "repository": "https://github.com/sultanlive/1social-skills",
+  "license": "MIT",
+  "keywords": [
+    "social-media",
+    "scheduler",
+    "cross-posting",
+    "instagram",
+    "tiktok",
+    "linkedin",
+    "x",
+    "twitter",
+    "threads",
+    "facebook",
+    "youtube",
+    "bluesky"
+  ],
+  "icon": "./icon.png",
+  "documentationUrl": "https://1social.dev/mcp",
+  "supportUrl": "https://1social.dev/support",
+  "privacyPolicyUrl": "https://1social.dev/legal/privacy",
+  "termsOfServiceUrl": "https://1social.dev/legal/terms"
+}

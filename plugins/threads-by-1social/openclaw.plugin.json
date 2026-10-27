@@ -1,0 +1,11 @@
+{
+  "id": "threads-by-1social",
+  "name": "Threads by 1Social",
+  "version": "1.0.0",
+  "description": "Publish and schedule Threads posts from OpenClaw — preview against Threads's limits, publish now or schedule, and see what actually reached your account. Powered by 1Social.",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}
