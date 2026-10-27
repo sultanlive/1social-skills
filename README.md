@@ -16,7 +16,7 @@ Then connect the MCP server once — each skill's *Setup* section has the comman
 |---|---|---|
 | `instagram-post` | Instagram: post & schedule posts, Reels and carousels (1Social) | `openclaw skills install @sultanlive/instagram` |
 | `tiktok-post` | TikTok: post & schedule videos and photo carousels (1Social) | `openclaw skills install @sultanlive/tiktok` |
-| `x-twitter-post` | X (Twitter): post & schedule tweets and threads (1Social) | `openclaw skills install @sultanlive/x` |
+| `x-twitter-post` | X (Twitter): post & schedule tweets and threads (1Social) | `openclaw skills install @sultanlive/twitter` |
 | `threads-post` | Threads: post & schedule posts (1Social) | `openclaw skills install @sultanlive/threads` |
 | `linkedin-post` | LinkedIn: post & schedule posts (1Social) | `openclaw skills install @sultanlive/linkedin` |
 | `facebook-page-post` | Facebook: post & schedule Page posts (1Social) | `openclaw skills install @sultanlive/facebook` |
