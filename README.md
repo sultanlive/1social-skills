@@ -14,16 +14,16 @@ Then connect the MCP server once — each skill's *Setup* section has the comman
 
 | Skill | What it is | ClawHub |
 |---|---|---|
-| `instagram-post` | Instagram Posting & Scheduling (1Social) | `openclaw skills install @sultanlive/instagram` |
-| `tiktok-post` | TikTok Posting & Scheduling (1Social) | `openclaw skills install @sultanlive/tiktok` |
-| `x-twitter-post` | X (Twitter) Posting & Scheduling (1Social) | `openclaw skills install @sultanlive/x` |
-| `threads-post` | Threads Posting & Scheduling (1Social) | `openclaw skills install @sultanlive/threads` |
-| `linkedin-post` | LinkedIn Posting & Scheduling (1Social) | `openclaw skills install @sultanlive/linkedin` |
-| `facebook-page-post` | Facebook Posting & Scheduling (1Social) | `openclaw skills install @sultanlive/facebook` |
-| `youtube-shorts` | YouTube Shorts Posting & Scheduling (1Social) | `openclaw skills install @sultanlive/youtube-shorts` |
-| `bluesky-post` | Bluesky Posting & Scheduling (1Social) | `openclaw skills install @sultanlive/bluesky` |
-| `social-media-publisher` | Social Media Publisher (1Social) | `openclaw skills install @sultanlive/social-media` |
-| `1social` | 1Social: Post to Every Network | `openclaw skills install @sultanlive/1social` |
+| `instagram-post` | Instagram: post & schedule posts, Reels and carousels (1Social) | `openclaw skills install @sultanlive/instagram` |
+| `tiktok-post` | TikTok: post & schedule videos and photo carousels (1Social) | `openclaw skills install @sultanlive/tiktok` |
+| `x-twitter-post` | X (Twitter): post & schedule tweets and threads (1Social) | `openclaw skills install @sultanlive/x` |
+| `threads-post` | Threads: post & schedule posts (1Social) | `openclaw skills install @sultanlive/threads` |
+| `linkedin-post` | LinkedIn: post & schedule posts (1Social) | `openclaw skills install @sultanlive/linkedin` |
+| `facebook-page-post` | Facebook: post & schedule Page posts (1Social) | `openclaw skills install @sultanlive/facebook` |
+| `youtube-shorts` | YouTube Shorts: post & schedule Shorts (1Social) | `openclaw skills install @sultanlive/youtube-shorts` |
+| `bluesky-post` | Bluesky: post & schedule posts and threads (1Social) | `openclaw skills install @sultanlive/bluesky` |
+| `social-media-publisher` | Social Media Scheduler: post to Instagram, TikTok, X (Twitter), Threads, LinkedIn, Facebook, YouTube Shorts, Bluesky (1Social) | `openclaw skills install @sultanlive/social-media-scheduler` |
+| `1social` | 1Social: post & schedule to every social network | `openclaw skills install @sultanlive/1social` |
 
 ## Requirements
 
