@@ -1,0 +1,11 @@
+{
+  "id": "pinterest-by-1social",
+  "name": "Pinterest by 1Social",
+  "version": "1.0.4",
+  "description": "Publish and schedule Pinterest pins from OpenClaw — preview against Pinterest's limits, publish now or schedule, and see what actually reached your account. Powered by 1Social.",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}
