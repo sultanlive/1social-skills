@@ -1,13 +1,13 @@
 ---
 name: social-media-publisher
-description: "Publish and schedule social media posts to Instagram, TikTok, X (Twitter), Threads, LinkedIn, Facebook Pages, YouTube Shorts, Bluesky, Pinterest, Telegram and Tumblr from OpenClaw, Hermes, Claude Code or Codex. One post adapted to each network's limits, cross-posted now or scheduled up to 30 days ahead, with a per-network delivery receipt, via the 1Social MCP server (OAuth, no API key). Use to post on social media, cross-post, schedule posts, plan a content calendar, or check what was published."
+description: "Publish and schedule social media posts to Instagram, TikTok, X (Twitter), Threads, LinkedIn, Facebook Pages, YouTube Shorts, Bluesky, Pinterest, Telegram, Tumblr and Discord from OpenClaw, Hermes, Claude Code or Codex. One post adapted to each network's limits, cross-posted now or scheduled up to 30 days ahead, with a per-network delivery receipt, via the 1Social MCP server (OAuth, no API key). Use to post on social media, cross-post, schedule posts, plan a content calendar, or check what was published."
 license: MIT
 metadata:
   openclaw:
     emoji: "📣"
     homepage: "https://1social.dev/mcp?ref=skill"
   hermes:
-    tags: ["social-media", "scheduler", "cross-posting", "instagram", "tiktok", "linkedin", "x", "twitter", "threads", "facebook", "youtube", "bluesky", "pinterest", "telegram", "tumblr"]
+    tags: ["social-media", "scheduler", "cross-posting", "instagram", "tiktok", "linkedin", "x", "twitter", "threads", "facebook", "youtube", "bluesky", "pinterest", "telegram", "tumblr", "discord"]
     category: social-media
 ---
 
@@ -61,6 +61,7 @@ The user needs a 1Social account. New accounts start with a free trial; publishi
 | Pinterest | description 800, title 100 | **1–5 images** (JPEG/PNG/WEBP), needs a board | — | yes |
 | Telegram (channels) | 4,096 (caption 1,024, longer text follows the media) | optional, album ≤ 10, ≤ 50 MB | joined into one post | within 48 h |
 | Tumblr (per blog) | long-form; title, link, source, tags | optional, ≤ 30 images **or** 1 video | joined into one post | yes |
+| Discord (server channels) | 2,000 per message | optional, ≤ 10 files, ≤ 20 MB each | thread under the first message | yes |
 
 - Pick the channels with the user, then check the strictest limit among them. A 280-character X post and a 3,000-character LinkedIn post are different posts — if the networks differ a lot, offer to publish separate versions as separate posts rather than cutting everything to the shortest limit.
 - If any selected network requires media (Instagram, TikTok, YouTube Shorts, Pinterest), ask for it before drafting. YouTube Shorts takes only one vertical video of up to 3 minutes; Pinterest takes images only and needs a board (the channel's default, or `pinterest.boardId`).

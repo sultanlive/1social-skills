@@ -1,6 +1,6 @@
 {
   "name": "threads-by-1social",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "type": "module",
   "description": "Publish and schedule Threads posts from OpenClaw — preview against Threads's limits, publish now or schedule, and see what actually reached your account. Powered by 1Social.",
   "license": "MIT",

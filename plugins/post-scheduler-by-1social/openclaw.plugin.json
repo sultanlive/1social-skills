@@ -1,8 +1,8 @@
 {
   "id": "post-scheduler-by-1social",
   "name": "Post Scheduler by 1Social",
-  "version": "1.0.4",
-  "description": "Publish and schedule one post to Instagram, TikTok, LinkedIn, X, Threads, Facebook, YouTube Shorts, Bluesky, Pinterest, Telegram and Tumblr from OpenClaw — preview against each network's limits, publish now or schedule, and see what actually reached each network. Powered by 1Social.",
+  "version": "1.0.5",
+  "description": "Publish and schedule one post to Instagram, TikTok, LinkedIn, X, Threads, Facebook, YouTube Shorts, Bluesky, Pinterest, Telegram, Tumblr and Discord from OpenClaw — preview against each network's limits, publish now or schedule, and see what actually reached each network. Powered by 1Social.",
   "configSchema": {
     "type": "object",
     "additionalProperties": false,

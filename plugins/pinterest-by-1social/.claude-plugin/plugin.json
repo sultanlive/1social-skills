@@ -1,7 +1,7 @@
 {
   "name": "pinterest-by-1social",
   "displayName": "Pinterest by 1Social",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Publish and schedule Pinterest pins from OpenClaw — preview against Pinterest's limits, publish now or schedule, and see what actually reached your account. Powered by 1Social.",
   "author": {
     "name": "Sultan Kadyrkesh",

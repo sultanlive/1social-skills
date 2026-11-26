@@ -1,6 +1,6 @@
 # Post Scheduler by 1Social for OpenClaw
 
-Publish and schedule one post to Instagram, TikTok, LinkedIn, X, Threads, Facebook, YouTube Shorts, Bluesky, Pinterest, Telegram and Tumblr from OpenClaw. This bundle plugin connects OpenClaw to the [1Social](https://1social.dev) MCP server (`https://mcp.1social.dev/mcp`) and adds the `social-media-publisher` skill, which carries every network's rules so the agent drafts posts the network will accept.
+Publish and schedule one post to Instagram, TikTok, LinkedIn, X, Threads, Facebook, YouTube Shorts, Bluesky, Pinterest, Telegram, Tumblr and Discord from OpenClaw. This bundle plugin connects OpenClaw to the [1Social](https://1social.dev) MCP server (`https://mcp.1social.dev/mcp`) and adds the `social-media-publisher` skill, which carries every network's rules so the agent drafts posts the network will accept.
 
 ## Install
 

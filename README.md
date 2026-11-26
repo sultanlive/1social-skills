@@ -1,6 +1,6 @@
 # 1Social skills for AI agents
 
-Publish and schedule posts to Instagram, TikTok, X (Twitter), Threads, LinkedIn, Facebook Pages, YouTube Shorts, Bluesky, Pinterest, Telegram and Tumblr from OpenClaw, Hermes, Claude Code, Codex and other agents that read [Agent Skills](https://agentskills.io).
+Publish and schedule posts to Instagram, TikTok, X (Twitter), Threads, LinkedIn, Facebook Pages, YouTube Shorts, Bluesky, Pinterest, Telegram, Tumblr and Discord from OpenClaw, Hermes, Claude Code, Codex and other agents that read [Agent Skills](https://agentskills.io).
 
 Each skill teaches the agent one network's rules — length limits, required media, formats — and drives the hosted [1Social](https://1social.dev) MCP server (`https://mcp.1social.dev/mcp`), which publishes to accounts you own and reports what actually reached each network. Sign-in is OAuth in the browser: no API keys.
 
@@ -27,7 +27,8 @@ With a bare skill, connect the MCP server once — each skill's *Setup* section 
 | `pinterest-pin` | Pinterest: post & schedule image pins and carousels (1Social) | `openclaw skills install @sultanlive/pinterest` |
 | `telegram-post` | Telegram: post & schedule channel posts, photos, videos and albums (1Social) | `openclaw skills install @sultanlive/telegram` |
 | `tumblr-post` | Tumblr: post & schedule text posts, photo sets and videos (1Social) | `openclaw skills install @sultanlive/tumblr` |
-| `social-media-publisher` | Social Media Scheduler: post to Instagram, TikTok, X (Twitter), Threads, LinkedIn, Facebook, YouTube Shorts, Bluesky, Pinterest, Telegram, Tumblr (1Social) | `openclaw skills install @sultanlive/social-media-scheduler` |
+| `discord-post` | Discord: post & schedule channel messages, announcements, forum posts and threads (1Social) | `openclaw skills install @sultanlive/discord` |
+| `social-media-publisher` | Social Media Scheduler: post to Instagram, TikTok, X (Twitter), Threads, LinkedIn, Facebook, YouTube Shorts, Bluesky, Pinterest, Telegram, Tumblr, Discord (1Social) | `openclaw skills install @sultanlive/social-media-scheduler` |
 | `1social` | 1Social: post & schedule to every social network | `openclaw skills install @sultanlive/1social` |
 
 ## Requirements
