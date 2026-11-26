@@ -16,7 +16,7 @@
     "discord-bot",
     "discord-announcements",
     "discord-scheduler",
-    "community"
+    "discord-forum"
   ],
   "icon": "./icon.png",
   "documentationUrl": "https://1social.dev/mcp",

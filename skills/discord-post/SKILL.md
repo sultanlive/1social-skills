@@ -7,7 +7,7 @@ metadata:
     emoji: "📣"
     homepage: "https://1social.dev/post-to/discord?ref=skill"
   hermes:
-    tags: ["discord", "discord-bot", "discord-announcements", "discord-scheduler", "community"]
+    tags: ["discord", "discord-bot", "discord-announcements", "discord-scheduler", "discord-forum"]
     category: social-media
 ---
 
