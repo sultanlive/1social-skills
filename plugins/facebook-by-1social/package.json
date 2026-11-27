@@ -1,6 +1,6 @@
 {
   "name": "facebook-by-1social",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "type": "module",
   "description": "Publish and schedule Facebook Page posts from OpenClaw — preview against Facebook's limits, publish now or schedule, and see what actually reached your account. Powered by 1Social.",
   "license": "MIT",

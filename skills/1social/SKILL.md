@@ -52,7 +52,7 @@ The user needs a 1Social account. New accounts start with a free trial; publishi
 |---|---|---|---|---|
 | Bluesky | 300 per post | optional | native | yes |
 | X (Twitter) | 280 per post | optional, images ≤ 5 MB | native | yes |
-| Threads | 500 | optional | joined into one post | no |
+| Threads | 500 per part | optional | reply chain, up to 20 parts (accounts connected before 27 Nov 2026: joined until Reconnect) | yes (before 27 Nov 2026 connections: no, until Reconnect) |
 | LinkedIn | 3,000 | optional | joined into one post | yes |
 | Facebook (Pages) | 63,206 | optional | joined into one post | yes |
 | Instagram | 2,200 | **required**, 4:5 to 1.91:1 | joined into one post | no |
@@ -65,8 +65,8 @@ The user needs a 1Social account. New accounts start with a free trial; publishi
 
 - Pick the channels with the user, then check the strictest limit among them. A 280-character X post and a 3,000-character LinkedIn post are different posts — if the networks differ a lot, offer to publish separate versions as separate posts rather than cutting everything to the shortest limit.
 - If any selected network requires media (Instagram, TikTok, YouTube Shorts, Pinterest), ask for it before drafting. YouTube Shorts takes only one vertical video of up to 3 minutes; Pinterest takes images only and needs a board (the channel's default, or `pinterest.boardId`).
-- Segments become a native thread on X and Bluesky and are joined into one post everywhere else; preview_post says which will happen per network.
-- Instagram, TikTok, Threads and YouTube posts cannot be deleted through 1Social, so confirm with the user before publishing there.
+- Segments become a native thread on X, Bluesky and Threads and are joined into one post everywhere else; preview_post says which will happen per network.
+- Instagram, TikTok and YouTube posts cannot be deleted through 1Social (nor Threads posts on accounts connected before 27 November 2026), so confirm with the user before publishing there.
 
 ## Content calendars
 
@@ -77,6 +77,6 @@ For a week or month of posts, draft the whole plan first and get the user's appr
 - **Check status:** `list_posts` (give a `postId` for one post). It includes stored engagement metrics where the network reports them.
 - **Change a scheduled post:** `update_post`. Only works before the post has gone out.
 - **Unschedule:** `cancel_post`. Use this, not `delete_post`, for a post that has not been published.
-- **Delete a published post:** `delete_post`, only after the user confirms. Report per network what actually came down: Instagram, TikTok, Threads and YouTube posts stay live and only the user can remove them.
+- **Delete a published post:** `delete_post`, only after the user confirms. Report per network what actually came down: Instagram, TikTok and YouTube posts (and Threads posts on accounts connected before 27 November 2026) stay live and only the user can remove them.
 - **A delivery failed:** `retry_delivery` retries one network and spends quota again. It is refused for permanent failures such as a revoked connection — then give the user that account's `reconnectUrl` from `list_accounts`.
 - **A delivery is `unknown`:** ask the user to look at the network. Only when they tell you whether the post is live, call `confirm_delivery` with their answer. Never guess, and never `retry_delivery` with `force` without asking — it may publish a second copy.

@@ -71,6 +71,6 @@ The same 1Social account can publish one post to Instagram, TikTok, LinkedIn, X,
 - **Check status:** `list_posts` (give a `postId` for one post). It includes stored engagement metrics where the network reports them.
 - **Change a scheduled post:** `update_post`. Only works before the post has gone out.
 - **Unschedule:** `cancel_post`. Use this, not `delete_post`, for a post that has not been published.
-- **Delete a published post:** `delete_post`, only after the user confirms. Report per network what actually came down: Instagram, TikTok, Threads and YouTube posts stay live and only the user can remove them.
+- **Delete a published post:** `delete_post`, only after the user confirms. Report per network what actually came down: Instagram, TikTok and YouTube posts (and Threads posts on accounts connected before 27 November 2026) stay live and only the user can remove them.
 - **A delivery failed:** `retry_delivery` retries one network and spends quota again. It is refused for permanent failures such as a revoked connection — then give the user that account's `reconnectUrl` from `list_accounts`.
 - **A delivery is `unknown`:** ask the user to look at the network. Only when they tell you whether the post is live, call `confirm_delivery` with their answer. Never guess, and never `retry_delivery` with `force` without asking — it may publish a second copy.

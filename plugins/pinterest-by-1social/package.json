@@ -1,6 +1,6 @@
 {
   "name": "pinterest-by-1social",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "type": "module",
   "description": "Publish and schedule Pinterest pins from OpenClaw — preview against Pinterest's limits, publish now or schedule, and see what actually reached your account. Powered by 1Social.",
   "license": "MIT",

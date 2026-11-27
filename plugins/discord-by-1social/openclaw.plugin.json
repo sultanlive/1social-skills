@@ -1,7 +1,7 @@
 {
   "id": "discord-by-1social",
   "name": "Discord by 1Social",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Publish and schedule Discord server posts from OpenClaw — preview against Discord's limits, publish now or schedule, and see what actually reached your account. Powered by 1Social.",
   "configSchema": {
     "type": "object",

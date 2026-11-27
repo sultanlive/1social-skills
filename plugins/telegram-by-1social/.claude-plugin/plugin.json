@@ -1,7 +1,7 @@
 {
   "name": "telegram-by-1social",
   "displayName": "Telegram by 1Social",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Publish and schedule Telegram channel posts from OpenClaw — preview against Telegram's limits, publish now or schedule, and see what actually reached your account. Powered by 1Social.",
   "author": {
     "name": "Sultan Kadyrkesh",
